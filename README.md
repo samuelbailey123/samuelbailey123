@@ -61,7 +61,8 @@
 ![](https://img.shields.io/badge/Software-Notion-white)
 ![](https://img.shields.io/badge/Software-Postman-orange)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samuelbailey123&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=samuelbailey123&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=TeX&layout=compact&theme=dark)
 
 <!---
 samuelbailey123/samuelbailey123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
