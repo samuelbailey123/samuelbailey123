@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/OS-Linux-black)
 
 ## 📖 Things I know ##
-### 🤟🏻Languages ###
+### 🤟🏻 Languages ###
 ![](https://img.shields.io/badge/Language-C++-darkblue)
 ![](https://img.shields.io/badge/Language-Go-lightblue)
 ![](https://img.shields.io/badge/Language-HTML-orange)
