@@ -63,15 +63,8 @@
 
 ### 📈 Github Statistics ###
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=samuelbailey123&theme=dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=samuelbailey123&count_private=true&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=php&theme=dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=php&theme=dark" />
-</a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=samuelbailey123&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=php&theme=dark)
 
 <!---
 samuelbailey123/samuelbailey123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
