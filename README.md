@@ -3,7 +3,7 @@
 <!-- ### 🏫 I'm a grad student ### -->
 
 #### Info ####
-- 👀 I’m a in software engineer **[@YouVersion](https://youversion.com/)**
+- 👀 Engineer **[@YouVersion](https://youversion.com/)**
 - 🌎 Grad Student **[@SNHU](https://snhu.edu)**
 - 📫 Reach me **[@email](mailto:baileysam1997@gmail.com)** or **[@twitter](https://twitter.com/samuel_baileyy)**
 
