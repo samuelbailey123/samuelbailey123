@@ -1,16 +1,13 @@
 # 👋 Hi, I’m Samuel #
 
-<!-- ### 🏫 I'm a grad student ### -->
-
-## Info ##
+## 🤓 Info ##
 - 👀 Engineer **[@YouVersion](https://youversion.com/)**
-- 🌎 Grad Student **[@SNHU](https://snhu.edu)**
+- 👨🏻‍🎓 Grad Student **[@SNHU](https://snhu.edu)**
 - 📫 Reach me **[@email](mailto:baileysam1997@gmail.com)** or **[@twitter](https://twitter.com/samuel_baileyy)**
 
-## 📝Certifications ##
-[GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
-
-[GCP Cloud Badge Manage Resources](https://www.cloudskillsboost.google/public_profiles/69f6e0aa-a60d-4789-81a8-fcb8fc111016/badges/1558121)
+## 📝 Certifications ##
+- [GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
+- [GCP Cloud Badge Manage Resources](https://www.cloudskillsboost.google/public_profiles/69f6e0aa-a60d-4789-81a8-fcb8fc111016/badges/1558121)
 
 ### 👨🏻‍💻 My Preferred Setup ###
 ![](https://img.shields.io/badge/Language-Terraform-purple)
@@ -69,4 +66,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=samuelbailey123&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbailey123&hide=php&theme=dark)
-
