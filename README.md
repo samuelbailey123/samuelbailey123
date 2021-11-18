@@ -9,6 +9,7 @@
 
 ## 📝Certifications ##
 [GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
+
 [GCP Cloud Badge Manage Resources](https://www.cloudskillsboost.google/public_profiles/69f6e0aa-a60d-4789-81a8-fcb8fc111016/badges/1558121)
 
 ### 👨🏻‍💻 My Preferred Setup ###
