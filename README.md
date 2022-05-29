@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Samuel #
 
 ## 🤓 Info ##
-- 👀 Engineer **[@YouVersion](https://youversion.com/)**
+- 👀 Engineer **[@Imubit](https://imubit.com/)**
 - 👨🏻‍🎓 Grad Student **[@SNHU](https://snhu.edu)**
 - 📫 Reach me **[@email](mailto:baileysam1997@gmail.com)** or **[@twitter](https://twitter.com/samuel_baileyy)**
 
