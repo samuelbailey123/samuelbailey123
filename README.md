@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Samuel #
 
 ## 🤓 Info ##
-- 👀 Engineer **[@Imubit](https://imubit.com/)**
+- 👀 Engineer **[@Imubit](https://imubit.com)**
 - 👨🏻‍🎓 Grad Student **[@SNHU](https://snhu.edu)**
 - 📫 Reach me **[@email](mailto:baileysam1997@gmail.com)** or **[@twitter](https://twitter.com/samuel_baileyy)**
+- 📜 **[@Portfolio](https://samuelbailey123.github.io)**
 
 ## 📝 Certifications ##
 - [GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
