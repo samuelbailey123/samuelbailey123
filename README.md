@@ -1,4 +1,4 @@
-# 👋 Hi #
+# Hi #
 I'm Samuel, a site reliability engineer at [Imubit](https://imubit.com).
 
 ## Info ##
