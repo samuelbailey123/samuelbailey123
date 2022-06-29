@@ -3,7 +3,7 @@ I'm Samuel, a site reliability engineer at [Imubit](https://imubit.com).
 
 ## Info ##
 - 👨🏻‍🎓 Grad Student and Preceptor at [SNHU](https://snhu.edu)
-- 📜 Here is my [Portfolio](https://samuelbailey123.github.io)
+- 📜 [Portfolio](https://samuelbailey123.github.io)
 
 ## 📝 Certifications ##
 - [GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
