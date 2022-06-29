@@ -1,15 +1,13 @@
 # Hello! #
-I'm Samuel, a site reliability engineer at [Imubit](https://imubit.com).
-
-## Info ##
-- 👨🏻‍🎓 Grad Student and Preceptor at [SNHU](https://snhu.edu)
-- 📜 [Portfolio](https://samuelbailey123.github.io)
+I'm Samuel, a Site Reliability Engineer at [Imubit](https://imubit.com) as well as a Grad Student and Preceptor at [SNHU](https://snhu.edu).
 
 ## My Projects ## 
 - [Golang Monitoring App](https://github.com/samuelbailey123/Simple-Golang-Monitoring-App), a simple golang web app that shows how to monitoring systems work. 
 - [SNHU Project](https://github.com/samuelbailey123/SNHU), a project with all of projects from my time at [SNHU](https://snhu.edu).
 - [Tik-Tak-Toe Game](https://github.com/samuelbailey123/tik-tac-toe), a simple tic-tac-toe game in python.
 - [Rock Paper Scissors Game](https://github.com/samuelbailey123/rock-paper-scissors), a simple rock-paper-scissors game in python.
+
+See more on my [portfolio](https://samuelbailey123.github.io)!
 
 ## 📝 Certifications ##
 - [GCP Professional Cloud Architect](https://www.udemy.com/certificate/UC-2453b981-2045-4651-9dbe-969bdf726db3/)
