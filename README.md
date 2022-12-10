@@ -1,5 +1,5 @@
 # Hello! #
-I'm Samuel, a Site Reliability Engineer at [Imubit](https://imubit.com) as well as a Grad Student and Preceptor at [SNHU](https://snhu.edu).
+I'm Samuel, a Site Reliability Engineer at [Imubit](https://imubit.com).
 
 ## My Projects ## 
 - [Learning Project](https://github.com/samuelbailey123/Learning), a project with all my learnings and fun apps from over the years.
